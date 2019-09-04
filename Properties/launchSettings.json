@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "JsonTest": {
+      "commandName": "Project",
+      "commandLineArgs": "1111 122121",
+      "nativeDebugging": false
+    }
+  }
+}
